@@ -11,4 +11,5 @@ Final Project For Fundamentals of Programming - Fall 2018
 //Now select the program in the dist folder (SSDEBF.exe) and choose an Algorithm and press start.
 //Tester plays with the program and shows you the result.
 
+/* The project's details are included in the fp.pdf file. (in Persian)
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
